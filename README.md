@@ -1,7 +1,7 @@
 # PGWEB-ACARA1
 Perencanaan Produk Web GIS dan GIT 
 
-Nama    : Muhammad Nashan Fauzian Tolo   
+Nama    : Muhammad Nashan Fauzian   
 NIM     : 22/498706/SV/21243  
 Kelas   : PG WEB - A  
 Avatar  :   
